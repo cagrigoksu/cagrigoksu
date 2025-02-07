@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 💫 About Me:
+# About Me:
 🎓I graduated with a Master's in Information and Computer Science at Université de Luxembourg.<br>💻I mainly work with C# and Pyton.<br>👁️I am a Computer Vision, Deep Learning, Data Science, and Angular enthusiast.<br>📸I love digital photography.
 
 
